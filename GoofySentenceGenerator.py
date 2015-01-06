@@ -1,4 +1,4 @@
- goofy sentence generator
+ #goofy sentence generator
 
 import random
 
